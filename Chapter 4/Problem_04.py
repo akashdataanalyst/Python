@@ -6,6 +6,7 @@ list = [23, 232, 1, 323]
 # Calculating sum of all elements
 print(sum(list))
 
+
 # Output:
 # 579
 
